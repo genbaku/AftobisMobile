@@ -20,14 +20,14 @@ body {
   font-weight: bold;
   color: white;
   text-align: center;
-  margin-bottom: 50px;
+  margin-bottom: 25px;                        
 }
 .buttons {
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 .btn {
   background-color: #ffb6c1;
@@ -42,9 +42,6 @@ body {
   border-radius: 12px;
   transition: background-color 0.3s ease;
   font-family: "Nunito";
-}
-.btn:hover {
-  background-color: #faf9f6;
 }
 .gif_container {
   display: flex;
